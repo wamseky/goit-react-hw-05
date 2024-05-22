@@ -1,0 +1,24 @@
+.title {
+    color: black;
+  }
+  
+  .list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    justify-items: center;
+    gap: 15px;
+  
+    margin-top: 20px;
+    overflow: hidden;
+  }
+  
+  .item {
+    max-width: 200px;
+  }
+  
+  .nameWrapper {
+    display: grid;
+    place-items: left;
+    padding: 10px 0;
+    max-width: 200px;
+  }

@@ -1,0 +1,18 @@
+.input {
+    min-width: 250px;
+    outline: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+  }
+  
+  .formBtn {
+    padding: 5px 10px;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .form {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }

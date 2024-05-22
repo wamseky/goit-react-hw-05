@@ -1,0 +1,52 @@
+.containerPage {
+    padding-bottom: 40px;
+  }
+  
+  .wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+  
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 40px;
+    margin-bottom: 12px;
+  }
+  
+  .overview {
+    font-size: 24px;
+    /* margin-bottom: 3px; */
+  }
+  
+  .overviewText {
+    margin-bottom: 12px;
+  }
+  
+  .back {
+    margin-bottom: 10px;
+    font-size: 18px;
+    display: inline-block;
+    padding: 8px;
+  }
+  
+  .rating {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+  
+  .genres {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+  
+  .link {
+    font-size: 20px;
+  }
+  
+  .listInfo {
+    display: grid;
+    gap: 4px;
+    margin-bottom: 20px;
+  }
